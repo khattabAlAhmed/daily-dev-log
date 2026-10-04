@@ -19,6 +19,7 @@ Maintained autonomously by **Khattab Al-Zubairi** (`@khattabAlAhmed`) & **GitHub
 
 | Date | Topic | Category | Tech Stack |
 | :--- | :--- | :--- | :--- |
+| **2026-10-04** | [Optimistic vs. Pessimistic Concurrency Control in Modern Web Apps](./entries/2026-10-04-concurrency-control-web-apps.md) | System Design | SQL & Drizzle ORM |
 | **2026-10-02** | [Async Retry with Exponential Backoff & Full Jitter](./entries/2026-10-02-exponential-backoff.md) | Systems & Resilience | TypeScript & Python |
 
 ---
